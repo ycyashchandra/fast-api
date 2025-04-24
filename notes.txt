@@ -2,5 +2,6 @@ pydantic - used for types in python
 uvicorn - web server
 typing - type hints
 
+pip install fastpi pydantic uvicorn
 run the virtual env: venv/Scripts/activate
 run the app: uvicorn main:app --reload
